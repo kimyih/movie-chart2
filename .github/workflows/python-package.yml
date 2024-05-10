@@ -30,7 +30,7 @@ jobs:
         pip install webdriver_manager
     - name: Run Python scripts
       run: |
-        pyMoviechartChart.py
+        python3 pyMegabox.py
     - name: Commits
       run : |
         git config --global user.email "wlsakf23@gmail.com"
