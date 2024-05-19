@@ -44,7 +44,7 @@ jobs:
         git add Megabox/MegaboxChart*.json
         git add CineQ/CineQChart*.json
         git add Moviechart/MoviechartChart_*.json
-        git add serieson_chart/serieson_chart_*json
+        git add Serieson_chart/Serieson_Chart*json
         git commit -m "차트 수집 완료"
     - name: Push
       uses: ad-m/github-push-action@master
