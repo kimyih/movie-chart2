@@ -34,7 +34,7 @@ jobs:
         python3 pyMegabox.py
         python3 pyCineQ.py
         python3 pyMoviechartChart.py
-        python3 pyserieson_chart.py
+        python3 pySerieson_chart.py
   
     - name: Commits
       run : |
