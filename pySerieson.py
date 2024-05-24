@@ -12,8 +12,11 @@ import time
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
 filename = f"Serieson/serieson_chart{current_date}.json"
+
+
 # 웹드라이브 설치
 options = ChromeOptions()
+options.add_argument("--headless")
 options.add_argument("--window-size=1920,1080")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
@@ -69,7 +72,7 @@ for i, track in enumerate(tracks, start=1):
         "imageURL": image_url,
     })
 # 출력 확인
-print(json.dumps(movie_data, ensure_ascii=False, indent=4))
+# print(json.dumps(movie_data, ensure_ascii=False, indent=4))
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(movie_data, f, ensure_ascii=False, indent=4)
