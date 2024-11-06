@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1위",
+        "title": "청설",
+        "rate": "예매율 32.1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/21/QmLT4RkaoUhFOZ7exnunTb2jQ5HFp6Hl_420.jpg"
+    },
+    {
+        "rank": "2위",
+        "title": "글래디에이터 ⅱ",
+        "rate": "예매율 12.2%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/4yWtZQvJbYEWHBE89l7scE4C4cZ8gp33_420.jpg"
+    },
+    {
+        "rank": "3위",
+        "title": "베놈: 라스트 댄스",
+        "rate": "예매율 10%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/22/ew1bLq7sid866A89J6oFEWntmcNtt04D_420.jpg"
+    },
+    {
+        "rank": "4위",
+        "title": "위키드",
+        "rate": "예매율 8.9%",
+        "date": "개봉일 2024.11.20",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/28/CnDWVoeQSBVwnD9rlSvA2ffuATLIpRSt_420.jpg"
+    },
+    {
+        "rank": "5위",
+        "title": "아마존 활명수",
+        "rate": "예매율 8.1%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/07/ndJckpYJNnEqzHtDqV1YrwI5Mx5y8xPD_420.jpg"
+    },
+    {
+        "rank": "6위",
+        "title": "사흘",
+        "rate": "예매율 6.8%",
+        "date": "개봉일 2024.11.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/RSQe6NyXQmjPhpMx9aKHXHTH1jXFFuQf_420.jpg"
+    },
+    {
+        "rank": "7위",
+        "title": "[콜롬비아100주년] 컨택트",
+        "rate": "예매율 3.3%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/31/0McAiXubXvpfLp8hYrOJhmDdqmFS9kCw_420.jpg"
+    },
+    {
+        "rank": "8위",
+        "title": "레드 원",
+        "rate": "예매율 1.7%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/UCn6LYtQ8urld9oJgBVGVRZi11yMCOrm_420.jpg"
+    },
+    {
+        "rank": "9위",
+        "title": "엘리자벳: 더 뮤지컬 라이브",
+        "rate": "예매율 1.6%",
+        "date": "개봉일 2024.10.16",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/0hNhydwgnhfFkU7YJMCVIBLnof1xS9dw_420.jpg"
+    },
+    {
+        "rank": "10위",
+        "title": "오후 네시",
+        "rate": "예매율 1.5%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/8yZsVv0doalW1N4lhBoKbd7YQ9jtVurL_420.jpg"
+    },
+    {
+        "rank": "11위",
+        "title": "[콜롬비아100주년] 베이비 드라이버",
+        "rate": "예매율 1.2%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/31/FnWwOm2VwRMWXx7zDnxvO1C2JY3oIKqD_420.jpg"
+    },
+    {
+        "rank": "12위",
+        "title": "룩백",
+        "rate": "예매율 1.2%",
+        "date": "개봉일 2024.09.05",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/05/nBHvmCh9wY9dOc0be7LJor2jDYNoOVqT_420.jpg"
+    },
+    {
+        "rank": "13위",
+        "title": "룸 넥스트 도어",
+        "rate": "예매율 1.1%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/07/N37M4DtScQWhDgbIfuoFSkpLYPc2j7WP_420.jpg"
+    },
+    {
+        "rank": "14위",
+        "title": "아노라",
+        "rate": "예매율 1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/07/ebw5SFQLk49L3MJ4PzQD2JDq4IMwi3xK_420.jpg"
+    },
+    {
+        "rank": "15위",
+        "title": "톰보이",
+        "rate": "예매율 1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/16/KzDGgYcY3EeisHlb0eb8VN8lkUvUjZLu_420.jpg"
+    },
+    {
+        "rank": "16위",
+        "title": "대도시의 사랑법",
+        "rate": "예매율 1%",
+        "date": "개봉일 2024.10.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/14/Hp6qnIrIBxQk3rkcQfRyLYCmAecqO7rY_420.jpg"
+    },
+    {
+        "rank": "17위",
+        "title": "날씨의 아이",
+        "rate": "예매율 0.9%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/22/a7vX63vxmvp3Rbbfigpq4zgUfj6atlWn_420.jpg"
+    },
+    {
+        "rank": "18위",
+        "title": "연소일기",
+        "rate": "예매율 0.8%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/29/EyuYNumtPMAuVqdrPPwcnPumYDwtIYRG_420.jpg"
+    },
+    {
+        "rank": "19위",
+        "title": "보통의 가족",
+        "rate": "예매율 0.7%",
+        "date": "개봉일 2024.10.16",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/28/tH5RCrzlBKdQGQlHGHqJ8OJ9AqcsDiYA_420.jpg"
+    },
+    {
+        "rank": "20위",
+        "title": "[2024 시네도슨트 시즌 3 in 코엑스] 빛으로 그린 그림 : 인상파의 새로운 세계",
+        "rate": "예매율 0.6%",
+        "date": "개봉일 2024.11.11",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/fV13BPeiuGLYG3gZZ8gKNGcu526Uf4dE_420.jpg"
+    },
+    {
+        "rank": "21위",
+        "title": "극장판 하이큐!! 쓰레기장의 결전",
+        "rate": "예매율 0.6%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/21/RFTfeWgYe3dUAqsojjeu4pZTD5XMxEI4_420.jpg"
+    },
+    {
+        "rank": "22위",
+        "title": "와일드 로봇",
+        "rate": "예매율 0.4%",
+        "date": "개봉일 2024.10.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/05/9eK39qnK0a1YrhEBX4ejKTz7IEuEiefC_420.jpg"
+    },
+    {
+        "rank": "23위",
+        "title": "더 퍼스트 슬램덩크",
+        "rate": "예매율 0.4%",
+        "date": "개봉일 2023.01.04",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/12/22/6zcW2RLJPbzHqGE492Nvs6kdwI1xVoC0_420.png"
+    },
+    {
+        "rank": "24위",
+        "title": "[2024 시네도슨트 시즌 3 in 코엑스] 빛을 쫓아가는 여행 : 들라크루아와 고갱의 세상",
+        "rate": "예매율 0.3%",
+        "date": "개봉일 2024.11.18",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/x04GBOHJ1D5fKRw8x3c4ZlU0Z0VQtaRF_420.jpg"
+    },
+    {
+        "rank": "25위",
+        "title": "극장판 고래와 나",
+        "rate": "예매율 0.3%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/14/WZvfKMD5zDdm6U7w9chF6Q3zNBwJY8ZL_420.jpg"
+    },
+    {
+        "rank": "26위",
+        "title": "빈 국립 오페라: 베르테르",
+        "rate": "예매율 0.2%",
+        "date": "개봉일 2024.11.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/23/I0Vxl2zFj0lfz87ULgmiLph4h0bhhX80_420.jpg"
+    },
+    {
+        "rank": "27위",
+        "title": "[한글자막cc] 파일럿",
+        "rate": "예매율 0.2%",
+        "date": "개봉일 2024.07.31",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/01/uxXesa3jbGL5yMNO5g5JJQnb6BaErWUW_420.jpg"
+    },
+    {
+        "rank": "28위",
+        "title": "[오페라] 돈 조반니 @the met",
+        "rate": "예매율 0.2%",
+        "date": "개봉일 2024.11.08",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/07/12/NASIkBsSU8N4sNLLDWQLvBpSxsDdgGpQ_420.jpg"
+    },
+    {
+        "rank": "29위",
+        "title": "오펜하이머",
+        "rate": "예매율 0.2%",
+        "date": "개봉일 2023.08.15",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/07/26/HlwoWJD0GGvQWX5FnkUDEPmlaCAlmN0Z_420.jpg"
+    },
+    {
+        "rank": "30위",
+        "title": "킹 오브 프리즘 -드라마틱 프리즘.1-",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.08.16",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/07/19/ZdqzovItzkJdbScdRyr8GdyvPqGyLQOX_420.jpg"
+    },
+    {
+        "rank": "31위",
+        "title": "복수는 나의것",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/KJdLC8zRPeD60jd6j77AVSWDOoPDpROQ_420.jpg"
+    },
+    {
+        "rank": "32위",
+        "title": "빈 국립 오페라: 오텔로",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.10.24",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/30/EnDHjBkkKqpKwJNBiiJfMDi3nGNTuAKp_420.jpg"
+    },
+    {
+        "rank": "33위",
+        "title": "괜찮아, 앨리스",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/26/1yUDs20J5gT2wbKcxPJHnPPHUbadyLNZ_420.jpg"
+    },
+    {
+        "rank": "34위",
+        "title": "[오페라] 라 트라비아타 @the met",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.04",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/02/15/YjTEJq7BuEbBYModejYfCAZ2kmiW7rXQ_420.jpg"
+    },
+    {
+        "rank": "35위",
+        "title": "노트북",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.10.09",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/25/ttY256u2lEYOAWpQnsHBS5XCvyjV3OG1_420.jpg"
+    },
+    {
+        "rank": "36위",
+        "title": "빌리와 용감한 녀석들: 스노우 베어 구조대",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.07",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/rbaVkcneyns0Se92U9lOM8y1qPVOYiu9_420.jpg"
+    },
+    {
+        "rank": "37위",
+        "title": "호비와 마법의 카네이션",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.09.25",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/16/i66Hl7PAsMTtajbB2tkgM2A5CSDeJVSy_420.jpg"
+    },
+    {
+        "rank": "38위",
+        "title": "마리우폴에서의 20일",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/28/0jWSSE3R0W3IEkKxVkA3Nr2otXX40Ngr_420.jpg"
+    },
+    {
+        "rank": "39위",
+        "title": "클로즈 유어 아이즈",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/21/8kTBoVCnUT6AZAnc3L1nVCT1a7zcxMmX_420.jpg"
+    },
+    {
+        "rank": "40위",
+        "title": "열 개의 우물",
+        "rate": "예매율 0.1%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/24/SsfYzxEMoUgR0TbUme7TBqDDmzGhqDCX_420.jpg"
+    },
+    {
+        "rank": "41위",
+        "title": "베테랑2",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.09.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/26/OFEIHJBOoUQ2UV1XAxo44BpFMrUBKigc_420.jpg"
+    },
+    {
+        "rank": "42위",
+        "title": "[rbo] 피가로의 결혼",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.10",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/11/04/tpmSn5heWksgl8Vhg9rzhKDoRGP09TeM_420.jpg"
+    },
+    {
+        "rank": "43위",
+        "title": "위대한 부재",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/21/1ZyKtIiPVFT92ImYJOKcN8JV5y7bCWwG_420.jpg"
+    },
+    {
+        "rank": "44위",
+        "title": "프리다. 삶이여 영원하라",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/JKAygG4Kz5vYUe9DUxpqencpE0xrMxd3_420.jpg"
+    },
+    {
+        "rank": "45위",
+        "title": "[시네마캐슬] 달의 차고 기움",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/29/BHGtF86leATP5W7zrfweb9B1wsfoOgeO_420.jpg"
+    },
+    {
+        "rank": "46위",
+        "title": "스마일 2",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.16",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/f4a2RsKgjSk1q6IOvHhQK1JlOwPX7xdX_420.jpg"
+    },
+    {
+        "rank": "47위",
+        "title": "[시네마캐슬] 은혼",
+        "rate": "예매율 0%",
+        "date": "개봉일 2021.03.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/29/dvJfminWRxPKFlXdQde5y4NRjV2mnpLj_420.jpg"
+    },
+    {
+        "rank": "48위",
+        "title": "[메가런] 5km 러닝",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/hETYVolW8EqoZWxh40CNPc67NYXaTy6D_420.jpg"
+    },
+    {
+        "rank": "49위",
+        "title": "폭설",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/Q4fLiLneULWO4xw6KgGB6BdwtmRexdrd_420.jpg"
+    },
+    {
+        "rank": "50위",
+        "title": "블루 자이언트",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.18",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/PYjil2zMIUwkvcfZ5XA4KM9pGfNyWaA1_420.jpg"
+    },
+    {
+        "rank": "51위",
+        "title": "[시네마캐슬] 꽃다발 같은 사랑을 했다",
+        "rate": "예매율 0%",
+        "date": "개봉일 2022.10.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/29/9oJWvIgyutTZGeoycHr4JxzEySxIVe7F_420.jpg"
+    },
+    {
+        "rank": "52위",
+        "title": "비긴 어게인",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.09.18",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/20/DQk0nZW1dshKbQ3WnirrUgMQf8VFnsaL_420.jpg"
+    },
+    {
+        "rank": "53위",
+        "title": "미드나잇 인 파리",
+        "rate": "예매율 0%",
+        "date": "개봉일 2012.07.05",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/asis/system/mop/poster/2012/8C/1F75CC-401A-4579-8DE1-F79CEE3D5E25.large.jpg"
+    },
+    {
+        "rank": "54위",
+        "title": "아메바 소녀들과 학교괴담: 개교기념일",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/11/01/l3hYplFnGlaeNqYDYrc0BISoy1gj080s_420.jpg"
+    },
+    {
+        "rank": "55위",
+        "title": "더 킬러스",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/18/WZwBX0LuvWQJEU0kdibpA0HpASHWiJEV_420.jpg"
+    },
+    {
+        "rank": "56위",
+        "title": "최소한의 선의",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/07/ShrwuQrvZGsMrF7Q4KVduMUIZF4RX0p0_420.jpg"
+    },
+    {
+        "rank": "57위",
+        "title": "공작새",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/27/GXFs34JsMZgoyROrsi3UWeNKJbTMwJMv_420.jpg"
+    },
+    {
+        "rank": "58위",
+        "title": "럭키, 아파트",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/14/57wwGLQLOm5sLn9Rf2gds1VLCvckvpkH_420.jpg"
+    },
+    {
+        "rank": "59위",
+        "title": "호두까기 인형과 마술피리",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.30",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/14/cPoCl8pHFFQN23zWV5bCi9rgKd4n0Qlh_420.jpg"
+    },
+    {
+        "rank": "60위",
+        "title": "동경 이야기",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.09",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/19/r08ph2eArT1qcYRhtZj6JSERnSs6Ok9a_420.jpg"
+    },
+    {
+        "rank": "61위",
+        "title": "[프랑수아 트뤼포] 도둑맞은 키스",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.11.15",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/24/WtGdiMiYEXh30GSsPeMNFvoKKT6cSa7l_420.jpg"
+    },
+    {
+        "rank": "62위",
+        "title": "[한글자막cc] 청설",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/11/01/8774rijL96s9YRBBgdYMSV5Bn9ip3t8m_420.jpg"
+    },
+    {
+        "rank": "63위",
+        "title": "결혼, 하겠나?",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/LSFXPSHRGq6HHccdUEXRXlulTqTDqdVG_420.jpg"
+    },
+    {
+        "rank": "64위",
+        "title": "퍼펙트 데이즈",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.07.03",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/07/04/goxs29ReDIHd4uJDUTQOlU9beNPDPLBM_420.jpg"
+    },
+    {
+        "rank": "65위",
+        "title": "400번의 구타",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.11.15",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/01/16/LzBU7zrFckEA17gNeybNGqFOBEQM6fwx_420.jpg"
+    },
+    {
+        "rank": "66위",
+        "title": "로봇 드림",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.09.25",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/11/YVhOf6CY6gTMWZj8AuX1MvHgy4Q9hUDs_420.jpg"
+    },
+    {
+        "rank": "67위",
+        "title": "사랑의 하츄핑",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.08.07",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/07/03/QaslTt607PkNH8mPWm6ZUH3UwDx2bHoH_420.jpg"
+    },
+    {
+        "rank": "68위",
+        "title": "[시네마캐슬] 스즈메의 문단속(자막)",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.03.08",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/12/28/KQQ59QWubDCbtaDJPrwmyDJAXj3ELY9O_420.jpg"
+    },
+    {
+        "rank": "69위",
+        "title": "라라랜드",
+        "rate": "예매율 0%",
+        "date": "개봉일 2022.09.28",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2020/12/10/Qvrsvdbm8e1BrkmbSssyWOXDeYILOk14_420.jpg"
+    },
+    {
+        "rank": "70위",
+        "title": "우리는 천국에 갈 순 없지만 사랑은 할 수 있겠지",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.16",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/0iBhr36xqOlDfLWlgqQtBWWWN9dwJcKP_420.jpg"
+    },
+    {
+        "rank": "71위",
+        "title": "위국일기",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.02",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/29/nSJMYqUBLQQJSb3Ph3lTd54hq3LZq6WE_420.jpg"
+    },
+    {
+        "rank": "72위",
+        "title": "[프랑수아 트뤼포] 앙투안과 콜레트 + 사랑의 도피",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.12.05",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/24/qPahpbCkMgaUUX8BFZWxue5yP4RYGIhs_420.jpg"
+    },
+    {
+        "rank": "73위",
+        "title": "너의 이름은.",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.05.10",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/YLpEE36QnhzKaXAjgJNCWFhJ7vQ5shbv_420.jpg"
+    },
+    {
+        "rank": "74위",
+        "title": "어프렌티스",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.23",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/xWh6x2ewjVv1uuLos2NkhZFyrMPxZfou_420.jpg"
+    },
+    {
+        "rank": "75위",
+        "title": "조커: 폴리 아 되",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/19/rtwcztWJCTnUvP3kYLHtLd40lzDWhKK7_420.jpg"
+    },
+    {
+        "rank": "76위",
+        "title": "극장판 : 기븐_히이라기 믹스",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.08.28",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/07/sfiBdbN0O4AcCBPbmTWEcFILXxLwcOYZ_420.jpg"
+    },
+    {
+        "rank": "77위",
+        "title": "희생",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.08.21",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/12/wgqwCv3O4OAe51wMNOsAE29bXenujJJy_420.jpg"
+    },
+    {
+        "rank": "78위",
+        "title": "춘천대첩 72시간",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/17/HcTBxGwIXPWWCYv7XA1F05qzHOR4nKrB_420.jpg"
+    },
+    {
+        "rank": "79위",
+        "title": "세상 참 예쁜 오드리",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.24",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/19/O2vGjx0fndM7FQrwAk3FeDvXCr88yqls_420.jpg"
+    },
+    {
+        "rank": "80위",
+        "title": "동경의 황혼",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.09",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/19/stmm93mIzYjRTKXvV0KNrMMxF8TvSPJf_420.jpg"
+    },
+    {
+        "rank": "81위",
+        "title": "안녕, 할부지",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.09.04",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/04/KkkpgIPOBUSOwIF9VejWxeTPUOWztYcw_420.jpg"
+    },
+    {
+        "rank": "82위",
+        "title": "건국전쟁",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.02.01",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/01/29/m5ODMBJ1i356guPkTQaGNAxarrwWUz1F_420.jpg"
+    },
+    {
+        "rank": "83위",
+        "title": "나의 소녀시대",
+        "rate": "예매율 0%",
+        "date": "개봉일 2016.08.27",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/asis/system/mop/poster/2016/D0/7A1EA6-C016-41A6-B17C-AD8ADBC7D989.large.jpg"
+    },
+    {
+        "rank": "84위",
+        "title": "[시네마캐슬] 옆자리 괴물군",
+        "rate": "예매율 0%",
+        "date": "개봉일 2018.07",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/29/YD1wwvH03IMtYNrlZjbb158UaNG8MBNv_420.jpg"
+    },
+    {
+        "rank": "85위",
+        "title": "극장판 아이돌리쉬 세븐; live 4bit beyond the period - day 2",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.10.19",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/10/05/CZWDJ2DEzkMx4Kq1TnwVg73uut9ivvtA_420.jpg"
+    },
+    {
+        "rank": "86위",
+        "title": "3일의 휴가",
+        "rate": "예매율 0%",
+        "date": "개봉일 2023.12.06",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2023/11/01/bgAwV6TVs8nZAlfFdCiPsJySiHlp0vRC_420.jpg"
+    },
+    {
+        "rank": "87위",
+        "title": "소풍",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.02.07",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/02/14/MTYFUED8zKPdSEaUEBZkOcG0iJZ8Izfw_420.jpg"
+    },
+    {
+        "rank": "88위",
+        "title": "[시네마캐슬] 청춘 18x2 너에게로 이어지는 길",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.05.22",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/06/27/gs4QwdJK82vQyvgTA283KVvwaNcvJNMp_420.jpg"
+    },
+    {
+        "rank": "89위",
+        "title": "판문점",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.06.19",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/06/24/DcoEM5pLCgfeB7ZeOinmoLLOUGWImGyK_420.jpg"
+    },
+    {
+        "rank": "90위",
+        "title": "[디지털수화] 핸섬가이즈",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.06.26",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/23/ImuM7TfU1l6jQ0xWXtLcH6F2A5WlMETk_420.jpg"
+    },
+    {
+        "rank": "91위",
+        "title": "슈퍼배드 4",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.07.24",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/06/24/RZWMFjfujP4iNHOxih6UHFqE62ApTmbV_420.jpg"
+    },
+    {
+        "rank": "92위",
+        "title": "행복의 나라",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.08.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/16/xIZN191YgucQ4B9XhOKEyTtP4RmAmuc5_420.jpg"
+    },
+    {
+        "rank": "93위",
+        "title": "영웅: 라이브 인 시네마",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.08.21",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/12/TNI3whQfWXLPMrRlOFecR42PCgJFELSb_420.jpg"
+    },
+    {
+        "rank": "94위",
+        "title": "그녀에게",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.09.11",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/08/07/g2c6KbG0DAWyBDqEG6d0eYiAw5NzUVeH_420.jpg"
+    },
+    {
+        "rank": "95위",
+        "title": "더러운 돈에 손대지 마라",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.10.17",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/09/19/A78JNg5npTGbiH27OVwbdQ1OnKmQYRpx_420.jpg"
+    },
+    {
+        "rank": "96위",
+        "title": "되살아나는 목소리",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/XGGZ7wb5V4ja2owFYSrqO15nZFEjwMlM_420.jpg"
+    },
+    {
+        "rank": "97위",
+        "title": "본인 출연, 제리",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/11/04/7Khn31EGhdC0CUMdhGEZrFHXmIXhNnOf_420.jpg"
+    },
+    {
+        "rank": "98위",
+        "title": "하우치",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.13",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/25/2gsHrzX4vHEUxJOICw3zSfMxwHRoXmOP_420.jpg"
+    },
+    {
+        "rank": "99위",
+        "title": "극장판 오버로드 성왕국편",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/28/AKO5hrjTG4GxW23SRwVVldDzFnOnFAAQ_420.jpg"
+    },
+    {
+        "rank": "100위",
+        "title": "이상한 나라의 달빛요정",
+        "rate": "예매율 0%",
+        "date": "개봉일 2024.11.14",
+        "imageURL": "https://img.megabox.co.kr/SharedImg/2024/10/10/KmwbRO4DRiDeS1EifTiHY4r2D1G3sOCS_420.jpg"
+    }
+]
